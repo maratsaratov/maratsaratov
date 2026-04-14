@@ -2,7 +2,9 @@
 
 ### A Python developer, data scientist, AI/ML developer
 
-- 🔭 I'm currently working on **as a freelance developer on outsourced projects**
+- 🔭 I'm currently working on **an AI-powered sports event analysis project**
+
+- 💼 Open to commercial proposals
 
 - 🌱 I'm currently learning **TensorFlow, PyTorch, neural networks, Scikit-learn, PostgreSQL, data engineering, network security**
 
