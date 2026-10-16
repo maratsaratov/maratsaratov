@@ -2,7 +2,7 @@
 
 ### A Python developer, data scientist, AI/ML developer
 
-- 🔭 I'm currently working on **an AI-powered sports event analysis project**
+- 🔭 I'm currently working on **an AI-powered sports event analysis project and an IDE extension that scans for vulnerabilities directly within the project**
 
 - 💼 Open to commercial proposals
 
