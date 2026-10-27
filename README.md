@@ -4,9 +4,7 @@
 
 - 🔭 I'm currently working on **an AI-powered sports event analysis project and an IDE extension that scans for vulnerabilities directly within the project**
 
-- 🏆 I'm the **captain of the hackathon team [Re-Hub](https://github.com/Re-Hub-TUSUR)** from TUSUR — we build projects and compete in hackathons together
-
-  [![Re-Hub Team](https://img.shields.io/badge/Hackathon_Team-Re--Hub_TUSUR-blue?style=for-the-badge&logo=github)](https://github.com/Re-Hub-TUSUR)
+- 🏆 I'm the **captain of the hackathon team [Re Hub](https://github.com/Re-Hub-TUSUR)** from TUSUR — we build projects and compete in hackathons together
 
 - 💼 Open to commercial proposals
 
