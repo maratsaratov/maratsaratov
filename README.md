@@ -1,14 +1,14 @@
 # Hi 👋, I'm Andrey Kovshov
 
-### A Python developer, data scientist, AI/ML developer
+### Data scientist, AI/ML developer, python developer
 
-- 🔭 I'm currently working on **an AI-powered sports event analysis project and an IDE extension that scans for vulnerabilities directly within the project**
+- 🔭 I'm currently working on **an IDE extension that scans for vulnerabilities directly within the project**
 
 - 🏆 I'm the **captain of the hackathon team [Re Hub](https://github.com/Re-Hub-TUSUR)** from TUSUR — we build projects and compete in hackathons together
 
 - 💼 Open to commercial proposals
 
-- 🌱 I'm currently learning **TensorFlow, PyTorch, neural networks, Scikit-learn, PostgreSQL, data engineering, network security**
+- 🌱 I'm currently learning **TensorFlow, PyTorch, neural networks, Scikit-learn, PostgreSQL, data engineering, network security, RAG, LLM Engineering, AI security, MLOps**
 
 - 📫 How to reach me **andy.kovshov@gmail.com**
 
